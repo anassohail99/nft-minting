@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "human"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "black"
+    }
+  ],
+  "description": "The world's most intelligent person",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmdq4pzPCiuox3WovXjd1PUUeRYyf4FEuWK3tRytRdphC9",
+  "name": "Rafu kana"
+}
